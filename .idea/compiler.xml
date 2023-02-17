@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="16" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="16" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="16" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="16" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Calculate_Square.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Determine_an_exception.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Explore_the_standard_class_library.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Is_the_code_fully_protected.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Name_an_exception.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Out_of_bounds.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Theory.main" target="16" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Where_an_exception_occurs.main" target="16" />
+      <module name="Cinema_Room_Manager.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
